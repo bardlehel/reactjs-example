@@ -1,0 +1,1 @@
+.myComponent .myButton button{background-color:grey;color:black;width:300px}@media only screen and (max-width:600px){.myComponent .myButton button{background-color:black;color:white;width:90%}}
